@@ -10,27 +10,27 @@ App will be a POS designed for Coffee Shops. Will have inventory integration to 
 
 Features:
 
-Login section
-Drink menu
-Inventory list
-Goal: 
+* Login section
+* Drink menu
+* Inventory list
+* Goal: 
 To create a complete front end of POS system.
 
 Framework:
 
-React Native
+* React Native
+
 Extra Features:
 
 Integrate a C# back-end, that would handle user logins, storing users inventory, and storing drinks.
 Allow  for users to accept credit card payments
 Email Admin if stock becomes low.
+
 Extra Features will require:
 
 C# 
 .Net Core Framework
-Is there anything else you’d like your instructor to know? 
 
-I hope to accomplish building out the front-end of this Application. I believe this would be a great challenge to transfer my skills of React to React Native.
 
 ## Created
 Austin Barr
@@ -62,12 +62,9 @@ NPM Install
   ```
   NPM RUN Start
   ```
-3. Navigate to http://localhost:8080/#/ in browser.    
+   
 ## Specifications
-1. App will have an employee facing side.
-2. App will have an customer facing side.
-3. App will display a hard coded list of beers.
-4. App will allow an employee to add beers to list.
+
 
 
 ### Technologies Used
