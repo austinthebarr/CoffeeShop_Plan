@@ -81,9 +81,8 @@ If you encounter any bugs or would like to make suggestions regarding this proje
 Planning this project was very time consuming. I was happy I only had one stateful component. I am still getting used to React and believe I just need a good chunk of time to really understand best practices of structuring a React app.
 
 ### Component Structure
-![CoffeeShop](assets/images/layout.jpg)
+![CoffeeShop](assets/images/layout2.jpg)
 
 
 ### License
-
 This project is distributed under the MIT License
