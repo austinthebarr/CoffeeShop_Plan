@@ -20,7 +20,6 @@ Libary:
 
 * React
 
-
 Extra Features:
 
 Integrate a C# back-end, that would handle user logins, storing users inventory, and storing drinks.
@@ -82,7 +81,7 @@ If you encounter any bugs or would like to make suggestions regarding this proje
 Planning this project was very time consuming. I was happy I only had one stateful component. I am still getting used to React and believe I just need a good chunk of time to really understand best practices of structuring a React app.
 
 ### Component Structure
-![HopShop](src/assets/images/HopShop.jpg)
+![CoffeeShop](assets/images/layout.jpg)
 
 
 ### License
