@@ -1,6 +1,6 @@
 # CoffeeShop App
 
-An IOS app allowing users to manage inventory and sales using React-Native
+An Web app allowing users to manage inventory and sales using React.
 
 ## Project Proposal
 
@@ -16,9 +16,9 @@ Features:
 * Goal: 
 To create a complete front end of POS system.
 
-Framework:
+Libary:
 
-* React Native
+* React
 
 Extra Features:
 
@@ -31,6 +31,7 @@ Extra Features will require:
 C# 
 .Net Core Framework
 
+Once all extra features are added, will transform into mobile app using React-Native.
 
 ## Created
 Austin Barr
@@ -64,8 +65,6 @@ NPM Install
   ```
    
 ## Specifications
-
-
 
 ### Technologies Used
 
