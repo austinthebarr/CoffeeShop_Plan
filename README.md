@@ -83,6 +83,9 @@ Planning this project was very time consuming. I was happy I only had one statef
 ### Component Structure
 ![CoffeeShop](assets/images/layout2.jpg)
 
+### Sketch of app
+![ruffsketch](assets/images/ruffsketch.jpg)
+
 
 ### License
 This project is distributed under the MIT License
