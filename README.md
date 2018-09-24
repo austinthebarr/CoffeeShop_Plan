@@ -2,6 +2,9 @@
 
 An Web app allowing users to manage inventory and sales using React.
 
+## Project Repo
+https://github.com/austinthebarr/CoffeeShop_Capstone
+
 ## Project Proposal
 
 CoffeeShop POS
